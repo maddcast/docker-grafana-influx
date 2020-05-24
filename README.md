@@ -1,6 +1,6 @@
 # Run containers
 ```
-docker-compose up -d
+sudo docker-compose up -d
 ```
 # Change grafana settings
 
